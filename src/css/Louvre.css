@@ -1,0 +1,8 @@
+.louvre {
+    position: absolute;
+    /*bottom: 0;*/
+    /*left: 1000px;*/
+    height: 265px;
+    width: 538px;
+    background-image: url('../image/louvre.png');
+}

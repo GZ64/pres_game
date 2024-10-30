@@ -1,0 +1,32 @@
+#personnage {
+    position: absolute;
+    height: 192px;
+    width: 100px;
+    bottom: 110px;
+    left: calc(50% - 55px);
+    z-index: 1;
+}
+
+.personnage-droite-repos {
+    background:url('../image/sprite_personnage.svg') -10px 0 no-repeat;
+}
+
+.personnage-droite-marche1 {
+    background:url('../image/sprite_personnage.svg') -75px 0 no-repeat;
+}
+
+.personnage-droite-marche2 {
+    background:url('../image/sprite_personnage.svg') -430px 0 no-repeat;
+}
+
+.personnage-gauche-repos {
+    background:url('../image/sprite_personnage.svg') -30px -196px no-repeat;
+}
+
+.personnage-gauche-marche1 {
+    background:url('../image/sprite_personnage.svg') -230px -196px no-repeat;
+}
+
+.personnage-gauche-marche2 {
+    background:url('../image/sprite_personnage.svg') -429px -196px no-repeat;
+}

@@ -1,0 +1,8 @@
+.fusee {
+    position: absolute;
+    height: 423px;
+    width: 200px;
+    background-image: url('../image/fusee.png');
+    background-repeat: no-repeat;
+    background-size: 146px 318px;
+}

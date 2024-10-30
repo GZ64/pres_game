@@ -1,0 +1,8 @@
+.arbre {
+    position: absolute;
+    /*bottom: 0;*/
+    /*left: 1000px;*/
+    height: 185px;
+    width: 140px;
+    background-image: url('../image/tree-dark-b.png');
+}

@@ -1,0 +1,6 @@
+.arc-triomphe {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-image: url('../image/arc_triomphe.png');
+}

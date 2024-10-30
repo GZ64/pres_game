@@ -1,0 +1,8 @@
+.tour-eiffel {
+    position: absolute;
+    /*bottom: 0;*/
+    /*left: 1000px;*/
+    height: 495px;
+    width: 239px;
+    background-image: url('../image/tour_eiffel.png');
+}

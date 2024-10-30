@@ -1,0 +1,9 @@
+.cloud {
+    position: absolute;
+    /*bottom: 0;*/
+    /*left: 1000px;*/
+    height: 185px;
+    width: 180px;
+    background-image: url('../image/cloud.png');
+    background-repeat: no-repeat;
+}
